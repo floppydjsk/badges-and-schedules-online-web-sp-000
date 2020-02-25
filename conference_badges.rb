@@ -6,7 +6,7 @@ end
 
 def batch_badge_creator(names)
   names.map do |person|
-    "Hello, my name is #{person}"
+    "Hello, my name is #{person}."
   end
 end
 
